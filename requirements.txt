@@ -1,0 +1,5 @@
+json_repair==0.30.0
+loguru==0.5.3
+web3==7.14.0
+eth-account==0.13.7
+requests==2.32.3
